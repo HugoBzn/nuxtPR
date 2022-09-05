@@ -1,7 +1,7 @@
 <template>
   <div class="container">
     <Hero />
-    <largeCardDisplay 
+    <LargeCardDisplay 
     v-for="cardInfo in largeCardInfo"
     :key="cardInfo.id"
     :cardsSection="cardInfo"
