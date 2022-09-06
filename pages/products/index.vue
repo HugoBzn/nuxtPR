@@ -1,6 +1,4 @@
 <template>
-  <div>
-    <Nav />
     <div class="container">
       <LargeCardDisplay
         v-for="cardInfo in largeCardInfo.slice(0, 1)"
@@ -13,7 +11,6 @@
         :cardsSection="cardInfo"
       />
     </div>
-  </div>
 </template>
 
 <script>
@@ -28,4 +25,8 @@ export default {
 };
 </script>
 
-<style scoped></style>
+<style scoped>
+  .container {
+    padding: 1rem;
+  }
+</style>
