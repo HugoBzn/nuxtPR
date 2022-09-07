@@ -22,10 +22,8 @@
           () => {
             addItem(product.id);
             hideModal();
-          }
-        "
-        >Order</b-button
-      >
+          }"
+        >Order</b-button>
     </b-modal>
   </div>
 </template>
