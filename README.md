@@ -1,4 +1,5 @@
 # nuxtPR
+Project created as a store of fire exintguishers.
 
 ## Build Setup
 
