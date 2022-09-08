@@ -1,5 +1,5 @@
 # nuxtPR
-Project created as a store of fire exintguishers.
+Project carried out with Nuxt as a fire extinguisher store page 🧯
 
 ## Build Setup
 
